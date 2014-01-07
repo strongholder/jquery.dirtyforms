@@ -17,9 +17,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
     "lib",
     "helpers",
-    "README.md",
+    "README.md"
   ]
 }
