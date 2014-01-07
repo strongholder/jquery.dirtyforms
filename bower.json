@@ -1,0 +1,22 @@
+{
+  "name": "jquery.dirtyforms",
+  "main": "jquery.dirtyforms.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/strongholder/jquery.dirtyforms",
+  "authors": [
+    "Daniel Popov <dido.popov@gmail.com>"
+  ],
+  "description": "This is a bower enabled fork of jquery.dirtyforms",
+  "keywords": [
+    "dirty",
+    "forms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
