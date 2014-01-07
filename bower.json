@@ -18,5 +18,8 @@
     "bower_components",
     "test",
     "tests"
+    "lib",
+    "helpers",
+    "README.md",
   ]
 }
